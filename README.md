@@ -3,6 +3,13 @@
 
 [![ahammani's 42 webserv Score](https://badge42.vercel.app/api/v2/cl8fydmkk00500gmeym4phwev/project/2596641)](https://github.com/JaeSeoKim/badge42)
 
+[![ahammani's 42 Inception Score](https://badge42.vercel.app/api/v2/cl8fydmkk00500gmeym4phwev/project/2569400)](https://github.com/JaeSeoKim/badge42)
+
+[![ahammani's 42 minishell Score](https://badge42.vercel.app/api/v2/cl8fydmkk00500gmeym4phwev/project/2212006)](https://github.com/JaeSeoKim/badge42)
+
+[![ahammani's 42 libasm Score](https://badge42.vercel.app/api/v2/cl8fydmkk00500gmeym4phwev/project/2166078)](https://github.com/JaeSeoKim/badge42)
+
+[![ahammani's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl8fydmkk00500gmeym4phwev/project/2083284)](https://github.com/JaeSeoKim/badge42)
 <!--
 **anouar-hammani/anouar-hammani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
